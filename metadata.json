@@ -1,0 +1,6 @@
+{
+  "name": "AnnotateAI - Intelligent Data Annotation Studio",
+  "description": "AI-assisted data annotation platform that accelerates bounding box, NER, and classification workflows with active learning, one-click smart labeling, and automated quality audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
